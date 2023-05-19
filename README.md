@@ -7,6 +7,7 @@ Facial Recognition Attendance System project. This project showcases computer vi
 * Efficient Data Storage: Employed efficient data storage methods to securely store attendance records and facilitate further analysis.
 ## Requirements
 ```
+pip install opencv-python
 pip install face-recognition
 pip install numpy
 ```
